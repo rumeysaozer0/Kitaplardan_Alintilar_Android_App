@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rumey/AndroidStudioProjects/KitaplardanAlintilar/app/src/main/res/drawable/bg_round.xml" value="0.2703125" />
+        <entry key="..\:/Users/rumey/AndroidStudioProjects/KitaplardanAlintilar/app/src/main/res/drawable/border_round.xml" value="0.2703125" />
+        <entry key="..\:/Users/rumey/AndroidStudioProjects/KitaplardanAlintilar/app/src/main/res/drawable/gradient.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/rumey/AndroidStudioProjects/KitaplardanAlintilar/app/src/main/res/drawable/ic_baseline_add.xml" value="0.2703125" />
+        <entry key="..\:/Users/rumey/AndroidStudioProjects/KitaplardanAlintilar/app/src/main/res/drawable/ic_baseline_email.xml" value="0.2703125" />
+        <entry key="..\:/Users/rumey/AndroidStudioProjects/KitaplardanAlintilar/app/src/main/res/drawable/ic_baseline_lock.xml" value="0.2703125" />
+        <entry key="..\:/Users/rumey/AndroidStudioProjects/KitaplardanAlintilar/app/src/main/res/drawable/ic_wave__1_.xml" value="0.2703125" />
+        <entry key="..\:/Users/rumey/AndroidStudioProjects/KitaplardanAlintilar/app/src/main/res/drawable/ic_wave__2_.xml" value="0.2703125" />
+        <entry key="..\:/Users/rumey/AndroidStudioProjects/KitaplardanAlintilar/app/src/main/res/drawable/wave.xml" value="0.2703125" />
+        <entry key="..\:/Users/rumey/AndroidStudioProjects/KitaplardanAlintilar/app/src/main/res/layout/activity_alinti.xml" value="0.264" />
+        <entry key="..\:/Users/rumey/AndroidStudioProjects/KitaplardanAlintilar/app/src/main/res/layout/activity_kitaplar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/rumey/AndroidStudioProjects/KitaplardanAlintilar/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/rumey/AndroidStudioProjects/KitaplardanAlintilar/app/src/main/res/layout/recycler_row.xml" value="0.2" />
+        <entry key="..\:/Users/rumey/AndroidStudioProjects/KitaplardanAlintilar/app/src/main/res/menu/options_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/rumeysaozer/kitaplardan_alintilar/adapter/RecyclerAdapter.kt" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

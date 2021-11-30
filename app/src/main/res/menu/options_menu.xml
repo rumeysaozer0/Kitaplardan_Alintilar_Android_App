@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/kitap_ekle"
+        android:title="Alıntı ekle"
+
+></item>
+
+    <item android:id="@+id/cikis_yap"
+        android:title="Çıkış Yap"
+      ></item>
+
+</menu>

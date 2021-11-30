@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99157590791",
+    "project_id": "kitaplardanalintilar-a5a4f",
+    "storage_bucket": "kitaplardanalintilar-a5a4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99157590791:android:69f07996f471e61b357ba2",
+        "android_client_info": {
+          "package_name": "com.rumeysaozer.kitaplardan_alintilar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99157590791-3f7p049a4218r9gqpgrh3ltfor457n2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh6CjiYPihFY8xuW4mvz-jfCn6hN3HHOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99157590791-3f7p049a4218r9gqpgrh3ltfor457n2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
